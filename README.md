@@ -33,6 +33,8 @@ http://localhost:8080/find-by-lastname-and-active/{lastName}
 6. Get all by first name
  ```
 http://localhost:8080/find-by-first-name/{firstName}
+
+
 ```
 7. Get all between min and max age
  ```
@@ -42,6 +44,6 @@ http://localhost:8080/find-by-age-between/{age}/{age2}
  ```
 http://localhost:8080/find-by-addmission-date-after/{date}
 ```
-![Screenshot (92)](https://user-images.githubusercontent.com/41718548/222973050-45c844c5-18fc-4423-befd-00e3f050497b.png)
+[![Screenshot (92)](https://user-images.githubusercontent.com/41718548/222973050-45c844c5-18fc-4423-befd-00e3f050497b.png)](https://youtu.be/l7DtSjOEep8)
 
 
